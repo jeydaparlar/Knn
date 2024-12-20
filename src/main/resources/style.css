@@ -1,0 +1,64 @@
+.button-style {
+    -fx-background-color: rgb(37, 130, 237);
+    -fx-border-color: none;
+    -fx-border-radius: 5px;
+    -fx-padding: 10px 10px;
+    -fx-start-margin: 10px;
+    -fx-end-margin: 10px;
+    -fx-font-size: 16px;
+    -fx-text-fill: white;
+}
+
+.button-charger {
+    -fx-background-color: rgb(205, 24, 24);
+    -fx-border-color: none;
+    -fx-border-radius: 5px;
+    -fx-padding: 10px 10px;
+    -fx-start-margin: 10px;
+    -fx-end-margin: 10px;
+    -fx-font-size: 16px;
+    -fx-text-fill: white;
+}
+
+.button-charger:hover {
+    -fx-background-color: rgb(205, 24, 24, 0.8);
+}
+
+.button-style:hover {
+    -fx-background-color: rgb(37, 130, 237, 0.8);
+}
+
+.label-form {
+    -fx-font-size: 12px;
+}
+
+.width-50 {
+    -fx-pref-width: 150px;
+}
+
+.input-form {
+    -fx-font-size: 12px;
+    -fx-padding: 5px 5px;
+    -fx-border-radius: 5px;
+}
+
+.button-valider {
+    -fx-background-color: rgb(37, 130, 237);
+    -fx-border-color: none;
+    -fx-border-radius: 5px;
+    -fx-padding: 10px 10px;
+    -fx-start-margin: 10px;
+    -fx-end-margin: 10px;
+    -fx-font-size: 16px;
+    -fx-text-fill: white;
+    -fx-max-width: 290px;
+    -fx-alignment: center;
+}
+
+.button-valider:hover {
+    -fx-background-color: rgb(37, 130, 237, 0.8);
+}
+
+.choice-box {
+    -fx-max-width: 150px;
+}
